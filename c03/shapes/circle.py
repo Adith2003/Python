@@ -1,6 +1,6 @@
 import math
 def area(radius):
-    return radius*radius
+    return 3.14*(raidus**2)
 def perimeter(radius):
     radius=float(radius)
-    return 4*radius
+    return 2*3.14*radius
